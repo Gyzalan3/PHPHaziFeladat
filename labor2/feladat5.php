@@ -39,7 +39,7 @@ function osszkoltseg($lista) {
     return $osszeg;
 }
 
-// Példák
+// Példák 
 $bevasarlolista = hozzadHozza($bevasarlolista, "Kenyér", 3, 8.2);
 $bevasarlolista = hozzadHozza($bevasarlolista, "Víz", 6, 3.3);
 $bevasarlolista = hozzadHozza($bevasarlolista, "Hús", 1, 10.1);
